@@ -1,2 +1,4 @@
 Dataset.csv
 *.csv
+*.pkl
+*.npy
